@@ -1,1 +1,1 @@
-# List of all questions on Arrays.
+# List of all questions on Arrays
