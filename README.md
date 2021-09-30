@@ -72,17 +72,12 @@
 
 ![image](https://user-images.githubusercontent.com/64991656/133085022-e507d7da-e824-4226-be49-0f549cd78e17.png)
 
-The project has two parts: 
 1. Java
     - Java section will contain folders of all the data structures and algorithms topics with some pre-addressed questions. 
     - Participants can solve problems and send pull requests. Participants can even add questions and solutions of their interest.
     - There will be a technical writing section in which participants can contribute their technical writing on any topic of java and data structures.
     - The repository provides implementations of various algorithms in one of the most fundamental general-purpose languages - java.
     - Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
-
-2. The webpage -( readme hosted ) 
-    - There shall be showcasing Daily tasks from Day 1 to Day 60. 
-    - And a section to showcase technical writings of participants in the form of blogs 
 
 ---
 ### FEATURES
@@ -92,7 +87,7 @@ The project has two parts:
 
 ---
 
-# DSA-Bootcamp-CPP
+# DSA-Bootcamp-Java
 
 - [Subscribe to our channel](https://youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
 - [Complete Playlist](https://youtube.com/playlist?list=PL2FviLYGTpU0rr01Lcr-1bNYv8x58EIZq)
