@@ -1,5 +1,6 @@
 # List of all questions on Arrays
 
+
 Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
 
 Example 1:
@@ -27,6 +28,9 @@ Expected Auxiliary Space: O(1)
 Constraints:
 1 ≤ N ≤ 105
 1 ≤ Arr[i] ≤ N
+
+Write a Java program to find smallest and second smallest elements of a given array.
+
 
 1. Two Sum Problem: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target
 1. Remove Duplicate Values from sorted array: Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
